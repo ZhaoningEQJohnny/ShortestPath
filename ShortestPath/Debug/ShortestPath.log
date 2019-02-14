@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  graphl.cpp
+  graphm.cpp
+  nodedata.cpp
+  lab3.cpp
+  正在生成代码...
+f:\visual works\shortestpath\shortestpath\graphm.cpp(27): error C4716: “GraphM::findShortestPath”: 必须返回一个值
+f:\visual works\shortestpath\shortestpath\graphm.cpp(17): error C4716: “GraphM::insertEdge”: 必须返回一个值
+f:\visual works\shortestpath\shortestpath\graphm.cpp(22): error C4716: “GraphM::removeEdge”: 必须返回一个值
